@@ -30,7 +30,7 @@ in a room.
 >>>>In this model, we transferred messages from our mobile phones to LCD using light as a data transmitter. We used the frequency and duration of the flashlight to transmit the message through a solar panel. We made an application that take the message as an input and gives the flashlight as output which is reflected on the LDR sensor and the corresponding message is displayed on the LCD. We used Arduino Uno as the microcontroller board.  
 ![image](https://user-images.githubusercontent.com/79044490/193364708-5fadba1e-1f5c-4f81-9709-ac0b98227a06.png)
 >>>>>**LiFiVerse App**
->>>>>>[![LiFiVerseAPP](https://user-images.githubusercontent.com/79044490/193363073-5270517b-30c8-429f-a5f0-ffee11825375.png)](https://github.com/Pranav-Programmer/LiFiVerse)
+>>>>>[![LiFiVerseAPP](https://user-images.githubusercontent.com/79044490/193363073-5270517b-30c8-429f-a5f0-ffee11825375.png)](https://github.com/Pranav-Programmer/LiFiVerse)
 >>>>>>**Transmitter Cricuit**
 ![image](https://user-images.githubusercontent.com/79044490/193365737-8e983780-4020-4c5e-9a21-3d3e49a31fa2.png)
 >>>>>>> **Receiver Cricuit**
