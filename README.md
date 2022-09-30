@@ -33,9 +33,9 @@ in a room.
 >>>>>>We transferred the image after burning the code in the transmitter and receiver which are Arduino nano. After burning the code in the transmitter, we used cool term software and take the required file type and the command is passed into the LED which will blink accordingly on the solar panel and pass the data into the receiver which processes the data and display the image onto the LCD.  
 ![image](https://user-images.githubusercontent.com/79044490/193364725-263b25d5-e23a-430a-ba79-49e07fd7ed88.png)
 >>>>>> **Model Design**
->>>>>>> ![image](https://user-images.githubusercontent.com/79044490/193365221-d514e614-efcd-4257-b4c4-5ce5c9f85849.png)
-![image](https://user-images.githubusercontent.com/79044490/193365231-6b322b41-138a-47c1-a86f-3d4566ad3587.png)
-![image](https://user-images.githubusercontent.com/79044490/193365243-9a4566a0-831e-432f-8bca-641e9f892367.png)
+>>>>>>> ![D1](https://user-images.githubusercontent.com/79044490/193365401-4d28c356-742d-408f-b8c6-115e5f2f74dd.png)
+![D2](https://user-images.githubusercontent.com/79044490/193365421-0c2d486b-50db-4de9-a3c8-65b15f242162.png)
+![D3](https://user-images.githubusercontent.com/79044490/193365438-478a14a5-fd7c-4252-aad5-20bd48a30ac0.png)
 
 
 
