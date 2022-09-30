@@ -36,7 +36,7 @@ in a room.
 >>>>>>![image](https://user-images.githubusercontent.com/79044490/193365737-8e983780-4020-4c5e-9a21-3d3e49a31fa2.png)
 >>>>>>> **Receiver Cricuit**
 >>>>>>>![image](https://user-images.githubusercontent.com/79044490/193365834-2f856dac-74c4-4374-b82d-1e50d7c5b4c9.png)
->>>>>> **Model Design**
+**Model Design**
 >>>>>>> ![D1](https://user-images.githubusercontent.com/79044490/193365401-4d28c356-742d-408f-b8c6-115e5f2f74dd.png)
 ![D2](https://user-images.githubusercontent.com/79044490/193365421-0c2d486b-50db-4de9-a3c8-65b15f242162.png)
 ![D3](https://user-images.githubusercontent.com/79044490/193365438-478a14a5-fd7c-4252-aad5-20bd48a30ac0.png)
