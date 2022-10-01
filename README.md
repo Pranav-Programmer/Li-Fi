@@ -42,7 +42,18 @@ in a room.
 ![D2](https://user-images.githubusercontent.com/79044490/193365421-0c2d486b-50db-4de9-a3c8-65b15f242162.png)
 ![D3](https://user-images.githubusercontent.com/79044490/193365438-478a14a5-fd7c-4252-aad5-20bd48a30ac0.png)
 >>>>>>>>> **Farbricated Model**
->>>>>>>>>>![WhatsApp Image 2022-10-01 at 11 02 29 AM](https://user-images.githubusercontent.com/76249823/193394427-3f399be9-810c-42a3-a730-1011637923e3.jpeg)
+>>>>>>>>>>![WhatsApp Image 2022-10-01 at 11 02 30 AM (2)](https://user-images.githubusercontent.com/76249823/193394557-fafa0675-eecb-4c87-ae65-5439226f87d6.jpeg)
+![WhatsApp Image 2022-10-01 at 11 02 31 AM](https://user-images.githubusercontent.com/76249823/193394559-63418ede-1182-4797-9dfa-794d10683dba.jpeg)
+![WhatsApp Image 2022-10-01 at 11 02 31 AM (1)](https://user-images.githubusercontent.com/76249823/193394563-92d25c13-c6fd-4228-9789-1b389ee3a8a8.jpeg)
+![WhatsApp Image 2022-10-01 at 11 02 30 AM (1)](https://user-images.githubusercontent.com/76249823/193394567-1278ab77-bfb4-45e2-b6a0-5bb0228eb3e1.jpeg)
+![WhatsApp Image 2022-10-01 at 11 02 30 AM](https://user-images.githubusercontent.com/76249823/193394569-36dc246b-eb0d-4467-985b-354f1a7a6468.jpeg)
+![WhatsApp Image 2022-10-01 at 11 02 29 AM (2)](htt![WhatsApp Image 2022-10-01 at 11 02 29 AM (1)](https://user-images.githubusercontent.com/76249823/193394574-3a192ca8-c5c9-43a2-9638-1fbc1d450a0e.jpeg)
+ps://user-images.githubusercontent.com/7624982![WhatsApp Image 2022-10-01 at 11 02 30 AM](https://user-images.githubusercontent.com/76249823/193394582-2a83a6f1-65ff-41b3-be75-2641d0d77722.jpeg)
+3/193394573-81db16ca-e9b6-44f5-978a-78059389ee18.jpeg)
+
+![WhatsApp Image 2022-10-01 at 11 02 29 AM](https://user-images.githubusercontent.com/76249823/193394427-3f399be9-810c-42a3-a730-1011637923e3.jpeg)
+![WhatsApp Image 2022-10-01 at 11 02 54 AM](https://user-images.githubusercontent.com/76249823/193394577-629c7308-9549-49b2-9882-534842577cce.jpeg)
+
 
 
 https://user-images.githubusercontent.com/79044490/193369197-2ce434ee-1173-4069-a40b-8afb9f29200f.mp4
