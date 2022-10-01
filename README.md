@@ -51,7 +51,7 @@ in a room.
 ![WhatsApp Image 2022-10-01 at 11 02 30 AM](https://user-images.githubusercontent.com/76249823/193394582-2a83a6f1-65ff-41b3-be75-2641d0d77722.jpeg)
 3/193394573-81db16ca-e9b6-44f5-978a-78059389ee18.jpeg)
 
-![WhatsApp Image 2022-10-01 at 11 02 29 AM](https://user-images.githubusercontent.com/76249823/193394427-3f399be9-810c-42a3-a730-1011637923e3.jpeg=250x250)
+![WhatsApp Image 2022-10-01 at 11 02 29 AM](https://user-images.githubusercontent.com/76249823/193394427-3f399be9-810c-42a3-a730-1011637923e3.jpeg)
 ![WhatsApp Image 2022-10-01 at 11 02 54 AM](https://user-images.githubusercontent.com/76249823/193394577-629c7308-9549-49b2-9882-534842577cce.jpeg)
 
 
