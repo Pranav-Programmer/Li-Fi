@@ -44,6 +44,14 @@ in a room.
 >>>>>>>>> **Farbricated Model**
 >>>>>>>>>>
 ![WhatsApp Image 2022-10-01 at 11 02 30 AM (2)](https://user-images.githubusercontent.com/76249823/193394894-d2fd77d0-4980-4624-a9f1-2a7993f52a3a.jpeg)
+![WhatsApp Image 2022-10-01 at 11 02 31 AM](https://user-images.githubusercontent.com/76249823/193394919-056484b6-ddcf-4091-a5de-42ba9ccef393.jpeg)
+![WhatsApp Image 2022-10-01 at 11 02 30 AM (1)](https://user-images.githubusercontent.com/76249823/193394923-d7849ef9-11f7-4342-a19c-40e8c4f8d51f.jpeg)
+![WhatsApp Image 2022-10-01 at 11 02 31 AM (1)](https://user-images.githubusercontent.com/76249823/193394928-d6566b74-7990-40e3-bb28-e6d0ad7b3f2f.jpeg)
+![WhatsApp Image 2022-10-01 at 11 02 29 AM (2)](https://user-images.githubusercontent.com/76249823/193394934-cc554c1b-bb46-4763-815f-9382e41cc425.jpeg)
+![WhatsApp Image 2022-10-01 at 11 02 30 AM](https://user-images.githubusercontent.com/76249823/193394941-40530a73-5f47-44d5-814f-e795929e9353.jpeg)
+![WhatsApp Image 2022-10-01 at 11 02 29 AM (1)](https://user-images.githubusercontent.com/76249823/193394945-3ae7e7bc-08ea-406e-895f-c7496810501b.jpeg)
+![WhatsApp Image 2022-10-01 at 11 02 29 AM](https://user-images.githubusercontent.com/76249823/193394947-b9bc2211-741e-4b4f-a6eb-34a7bc597a7e.jpeg)
+![WhatsApp Image 2022-10-01 at 11 02 54 AM](https://user-images.githubusercontent.com/76249823/193394948-6903cf87-fba5-45b7-a0d3-637863a0d79a.jpeg)
 
 
 
