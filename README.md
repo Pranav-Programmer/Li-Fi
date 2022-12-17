@@ -69,7 +69,11 @@ In this model, we transferred messages from our mobile phones to LCD using light
 
 
 
-https://user-images.githubusercontent.com/79044490/193369197-2ce434ee-1173-4069-a40b-8afb9f29200f.mp4
+
+
+https://user-images.githubusercontent.com/79044490/208243028-75432759-f541-44ab-9fb6-bbe628de19c4.mp4
+
+
 
 
 
